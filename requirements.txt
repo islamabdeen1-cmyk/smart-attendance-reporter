@@ -1,0 +1,6 @@
+customtkinter
+tkcalendar
+pandas
+openpyxl
+pyzk
+pytz
